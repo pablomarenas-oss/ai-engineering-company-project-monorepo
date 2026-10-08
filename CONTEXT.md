@@ -30,7 +30,12 @@ La empresa se organiza en las siguientes áreas:
 
 ## Dónde está la empresa hoy
 
-TrackFlow tiene buenos clientes, un equipo de operaciones competente y una propuesta de valor clara. Lo que le falta es la infraestructura para gestionar una operación logística de dos países a escala. Los dos almacenes no pueden ver el inventario del otro. Los datos de rendimiento de los transportistas no existen en ninguna forma estructurada. Las devoluciones se aprueban o rechazan una por una. Las consultas de los clientes las responden agentes consultando un documento de Word en Google Drive. El CEO toma decisiones basándose en un informe ensamblado a mano.
+TrackFlow tiene buenos clientes, un equipo de operaciones competente y una propuesta de valor clara.
+Lo que le falta es la infraestructura para gestionar una operación logística de dos países a escala.
+Los dos almacenes no pueden ver el inventario del otro.
+Los datos de rendimiento de los transportistas no existen en ninguna forma estructurada.
+Las devoluciones se aprueban o rechazan una por una.
+Las consultas de los clientes las responden agentes consultando un documento de Word en Google Drive. El CEO toma decisiones basándose en un informe ensamblado a mano.
 
 La consecuencia es que TrackFlow es más lenta, más propensa a errores y menos rentable de lo que necesita ser — y la brecha crece mientras los competidores invierten en automatización.
 
