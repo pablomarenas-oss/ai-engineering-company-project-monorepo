@@ -19,8 +19,11 @@ Poder plantearme soluciones, automatizaciones y poder darle una propuesta de val
 
 ## Reto de automatización / IA que más quiero construir
 
-el reto mas grande que creo poder enfrentar es contruir una base solida que pueda alimentar entre sí todas las áreas de la empresa.
-Si tengo alineado la recepción de los paquetes con mis clientes, cordinado la mejor ruta para los transportistas, pudiendo discriminar que transportista es el indicado, pudiendo hacer seguimiento y control en todo momento y un post venta eficiente; puedo encontrar muchos espacios donde la IA puede tomar decisiones autonomas y contribuir a que la experiencia del cliente se sienta cercana y eficaz.
+**Reto concreto: el motor de selección de transportista de Última Milla.**
+
+Hoy en TrackFlow la asignación de transportista por envío es manual y no existen datos históricos de rendimiento (ni tasa de entrega a tiempo, ni incidencias por ruta, ni costo por kg). El briefing pide un motor que recomiende la opción óptima según destino, peso y urgencia, y ese es el reto que más quiero construir.
+
+Lo que más me motiva es que es la base que puede alimentar al resto de las áreas. Si logro alinear la recepción de los paquetes con los clientes, coordinar la mejor ruta, elegir al transportista indicado y hacer seguimiento y control en todo momento, además de un posventa eficiente, aparecen muchos espacios donde la IA puede tomar decisiones autónomas. Así la experiencia del cliente se siente cercana y eficaz.
 
 ## My AI Agent Idea
 
@@ -28,8 +31,9 @@ Si tengo alineado la recepción de los paquetes con mis clientes, cordinado la m
 
 Agente de selección de Transportista,
 
-- \*\*Qué haría el agente:  
-   Toma todos los pedidos agendados, los ordena por fecha de entrega, genera una ruta optima y elige al transportista considerando criterios de costo, prioridad, categoria del cliente y ranking del transportista.
-- \*\*Qué información necesita:
-  Necesita conocer las ordenes de despacho, el mapa de la ciudad, informaciondel cliente, historial transportista.
-- \*\*Qué produce o dispara: dispara una agenda personalizada y los documentos de ordenes de despacho para cada transportista.
+**Qué haría el agente:**,
+Toma todos los pedidos agendados, los ordena por fecha de entrega, genera una ruta optima y elige al transportista considerando criterios de costo, prioridad, categoria del cliente y ranking del transportista.
+**Qué información necesita:**,
+Necesita conocer las ordenes de despacho, el mapa de la ciudad, informaciondel cliente, historial transportista.
+**Qué produce o dispara:**,
+Dispara una agenda personalizada y los documentos de ordenes de despacho para cada transportista.
